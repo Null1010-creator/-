@@ -1,0 +1,12 @@
+拾光 · 桌面时间规划局 — 参赛作品提交包
+================================================
+
+1. index.html            作品本体（单文件 H5，双击即可离线运行）
+2. 拾光参赛设计文档.docx   设计文字说明
+3. 拾光60秒演示视频.mp4    60 秒使用视频
+
+GitHub 仓库（作品链接）：https://github.com/Null1010-creator/shiguang-planner
+（Pages 链接开启后：https://null1010-creator.github.io/shiguang-planner/ ）
+
+提交方式：扫赛事手册「作品提交二维码」，填作品链接，
+上传设计文档与 60 秒视频。截止日期：10 月 31 日。
